@@ -1,0 +1,14 @@
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.AssemblyInfoInputs.cache
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.AssemblyInfo.cs
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\bin\Debug\net6.0\DiscountCalculator.exe
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\bin\Debug\net6.0\DiscountCalculator.deps.json
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\bin\Debug\net6.0\DiscountCalculator.runtimeconfig.json
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\bin\Debug\net6.0\DiscountCalculator.dll
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\bin\Debug\net6.0\DiscountCalculator.pdb
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.dll
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\obj\Debug\net6.0\refint\DiscountCalculator.dll
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.pdb
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\obj\Debug\net6.0\DiscountCalculator.genruntimeconfig.cache
+C:\Users\Marge Käige\source\repos\Functions\DiscountCalculator\obj\Debug\net6.0\ref\DiscountCalculator.dll

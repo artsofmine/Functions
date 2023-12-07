@@ -1,0 +1,14 @@
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\obj\Debug\net6.0\ArgumentsAndParameteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\obj\Debug\net6.0\ArgumentsAndParameteres.AssemblyInfoInputs.cache
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\obj\Debug\net6.0\ArgumentsAndParameteres.AssemblyInfo.cs
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\obj\Debug\net6.0\ArgumentsAndParameteres.csproj.CoreCompileInputs.cache
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\bin\Debug\net6.0\ArgumentsAndParameteres.exe
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\bin\Debug\net6.0\ArgumentsAndParameteres.deps.json
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\bin\Debug\net6.0\ArgumentsAndParameteres.runtimeconfig.json
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\bin\Debug\net6.0\ArgumentsAndParameteres.dll
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\bin\Debug\net6.0\ArgumentsAndParameteres.pdb
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\obj\Debug\net6.0\ArgumentsAndParameteres.dll
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\obj\Debug\net6.0\refint\ArgumentsAndParameteres.dll
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\obj\Debug\net6.0\ArgumentsAndParameteres.pdb
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\obj\Debug\net6.0\ArgumentsAndParameteres.genruntimeconfig.cache
+C:\Users\Marge Käige\source\repos\Functions\ArgumentsAndParameteres\obj\Debug\net6.0\ref\ArgumentsAndParameteres.dll
